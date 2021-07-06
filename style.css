@@ -1,0 +1,64 @@
+body{
+    font-family: 'Archivo Black', sans-serif;
+}
+h1{
+ color: rgb(87, 85, 85);
+ font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}
+
+.flexible-content{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 60px;
+}
+.half-width img{
+    width: 90%;
+}
+.paragraph-color{
+    color: rgb(107, 104, 104);
+    font-size: 20px;
+    font-family: 'Archivo Black', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+.div-padding{
+    padding-top: 100px;
+}
+.button-design{
+    background-image: linear-gradient(to right,rgb(252, 175, 33),rgb(245, 68, 45));
+    text-decoration: none;
+    color: white;
+    border-radius: 30px;
+    padding: 3% 10%;
+    box-shadow: 0px 1px 20px 0px rgb(240, 197, 118);
+
+    font-family: 'Archivo Black', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+}
+.about-padding{
+    padding-top: 100px;
+}
+.about-padding p{
+    width: 80%;
+}
+.paragraph-color-about-us{
+    color: rgb(34, 31, 31);
+    font-size: 20px;
+    font-family: 'Archivo Black', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+.about-us-text{
+    font-size: 40px;
+    color:gray ;
+    font-family: 'Archivo Black', sans-serif;
+    font-weight: bold;
+}
+.about-section{
+    background-image: url(images/shapes/7.png);
+    background-repeat: none;
+}

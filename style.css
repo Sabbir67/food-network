@@ -60,5 +60,46 @@ h1{
 }
 .about-section{
     background-image: url(images/shapes/7.png);
-    background-repeat: none;
+    background-repeat: no-repeat;
+}
+
+.recipies-header{
+    text-align: center;
+}
+.recipies-header h1{
+
+    font-weight: 200px;
+    font-size: 40px;
+}
+.recipies-header p{
+    font-size: 20px;
+    font-family: 'Archivo Black', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+.recipies-items{
+    width: 90%;
+    padding: 5%;
+    padding-left: 8%;
+}
+.item-width{
+    width: 30%;
+    margin-right: 6%;
+    
+}
+.item-width img{
+    width: 100%;
+}
+.item-width p{
+
+    width: 80%;
+    font-size: 18px;
+    font-family: 'Archivo Black', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+.item-shadow-and-shape{
+    border-radius: 20px;
+    padding-left: 30px;
+    align-items: center;
+    padding: 20px;
+    box-shadow: 0px 1px 20px 0px rgb(80, 79, 77);
 }
